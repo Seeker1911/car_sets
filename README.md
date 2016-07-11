@@ -1,2 +1,1 @@
-# nickelback
 # car_sets
